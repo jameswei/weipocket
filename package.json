@@ -1,0 +1,11 @@
+{
+  "name": "weipocket",
+  "description": "pocket app for weibo",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "express": "3.3.4",
+    "ejs": "0.8.4",
+    "request": "2.22.0"
+  }
+}
